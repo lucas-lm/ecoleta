@@ -123,7 +123,3 @@ Repositório: https://github.com/lucas-lm/ecoleta-native
 Feito com :heart: e :coffee: por:
 
 [<img src="https://avatars3.githubusercontent.com/u/29049644?s=460&u=6fcf78abdf0e007afa9b2a31beaf686d79fa9173&v=4" width=115><br><sub>@lucas-lm</sub>](https://github.com/lucas-lm)
-
-LinkedIn: https://www.linkedin.com/in/lucas-miranda-103976168/
-
-Twitter: @Lucas66321061
